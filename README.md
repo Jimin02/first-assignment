@@ -1,2 +1,1 @@
-# first-assignment
-The first assignment for APCSP
+# Why computer science?
